@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SSM_Maven_Review:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SSM_Maven_Review.war">
+      <element id="artifact" artifact-name="SSM_Maven_Review:war exploded" />
+    </root>
+  </artifact>
+</component>
