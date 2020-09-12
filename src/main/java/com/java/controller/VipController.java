@@ -22,6 +22,9 @@ public class VipController {
     @Autowired
     private VipService vipService;
 
+    /**
+     * @return
+     */
     @RequestMapping("/getVip.do")
     @ResponseBody
     public List<Map<String, Object>> getVip() {
